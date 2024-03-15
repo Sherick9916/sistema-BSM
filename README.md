@@ -20,8 +20,7 @@ El sistema solamente va a soportar las siguientes ciudades:
 - Barranquilla
 - Bogota
 
-La empresa lo ha contratado a usted para conocer lo siguiente:
-
+El sistema debe de indicar lo siguiente:
 
 1. El destino al que mas se despacharon maletas. No se pueden preguntar el numero de maletas para un destino en particular, se debe ir calculando
 segun los datos de cada pasajero.
